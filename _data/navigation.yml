@@ -1,6 +1,6 @@
 main:
   - title: "Resume"
-    url: /assets/resume.pdf/
+    url: {{ site.baseurl }}/assets/resume.pdf/
   - title: "My Book Library"
     url: /book_posts/
   - title: "My Music Library"

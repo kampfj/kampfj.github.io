@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: JJ Kampf
 email: kampfj@sas.upenn.edu
-baseurl: /jj_home
+baseurl: 
 description: >- # this means to ignore newlines until "baseurl:"
   JJ is a sophomore studying Computer Science and Philosophy at the University of Pennsylvania's School of Engineering 
   and Applied Science. JJ is passionate about the Avett Brothers.

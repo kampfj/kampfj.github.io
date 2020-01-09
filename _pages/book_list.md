@@ -1,9 +1,8 @@
 ---
 permalink: /book_list/
+title: My Book List
 layout: archive
 ---
-
-# My Book List
 
 *Open*, Andre Agassi   
 *Shoe Dog*, Phil Knight   

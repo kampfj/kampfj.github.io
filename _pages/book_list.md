@@ -3,7 +3,6 @@ permalink: /book_list/
 layout: archive
 ---
 
-## Non-Fiction 
 *Open*, Andre Agassi   
 *Shoe Dog*, Phil Knight   
 *Creativity, Inc.*, Ed Catmull and Amy Wallace  
@@ -21,8 +20,6 @@ layout: archive
 *Excellent Sheep*, William Deresiewicz  
 *Common Sense*, Thomas Paine  
 *The Art of Biblical Narrative*, Robert Alter   
-
-## Fiction
 *Jane Eyre*, Charlotte Bronte  
 *Brave New World*, Aldous Huxley  
 *Screwtape Letters*, CS Lewis   

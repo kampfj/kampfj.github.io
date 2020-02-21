@@ -6,7 +6,7 @@ categories: music_post
 
 Kevin Parker is in a different zone.  
 
-"Lost in Yesterday" is the eighth track off of the Tame Impala's newly released 2020 album, *The Slow Rush*. While Parker leaves more room than ever to interpret with this record, "Lost in Yesterday" leaves little to chance. Parker mulls over the mysterious movement of time and the blurred lines between reality and memory - in a large way, this theme embodies the entire album. The loaded tracklist is sandwiched by "One More Year" and "One More Hour", with "Tomorrow's Dust" right in between. To truly analyze Parker's intention, which seems to be to convey his idea of the cyclic nature of time and the prominence of our past on our present state of mind, it's crucial to watch the music video for "Lost in Yesterday":  
+"Lost in Yesterday" is the eighth track off of Tame Impala's newly released 2020 album, *The Slow Rush*. While Parker leaves more room than ever to interpret with this record, "Lost in Yesterday" leaves little to chance. Parker mulls over the mysterious movement of time and the blurred lines between reality and memory - in a large way, this theme embodies the entire album. The loaded tracklist is sandwiched by "One More Year" and "One More Hour", with "Tomorrow's Dust" right in between. To truly analyze Parker's intention, which seems to be to convey his idea of the cyclic nature of time and the prominence of our past on our present state of mind, it's crucial to watch the music video for "Lost in Yesterday":  
 
 {% include youtube_embed.html id="utCjuKDXQsE" %} 
 

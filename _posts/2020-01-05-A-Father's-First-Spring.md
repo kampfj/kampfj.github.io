@@ -7,51 +7,51 @@ categories: music_post
 ["A Father's First Spring"](https://www.youtube.com/watch?v=sncq9hZg9AQ) is the ninth track off of the Avett Brothers' 2012 album, **The Carpenter**.  
 
 ## Lyrics 
-> The sweetest surrender of winter, 
-She put up her flag it is waving. 
-The thunder of summer is rumbling in. 
+> The sweetest surrender of winter,   
+She put up her flag it is waving.   
+The thunder of summer is rumbling in.   
 
-> And I haven’t seen you in days, 
-And my how that feeling has changed. 
-Oh, I have been homesick for you since we met, 
-I have been homesick for you.
+> And I haven’t seen you in days,   
+And my how that feeling has changed.   
+Oh, I have been homesick for you since we met,   
+I have been homesick for you.  
 
-> I’ve got to take to the sky, 
-And I’ll tell you what that means for you and I - 
-If I die, it’s for you. 
-If I die it’s for you. 
+> I’ve got to take to the sky,   
+And I’ll tell you what that means for you and I -       
+If I die, it’s for you.   
+If I die it’s for you.   
 
-> I never lived till I lived in your light, 
-And my heart never beat like it does at the sight 
-Of you baby blue God blessed your life, 
-I do not live less I live in your light, 
-I do not live less I live in your light. 
+> I never lived till I lived in your light,   
+And my heart never beat like it does at the sight.  
+Of you baby blue God blessed your life,   
+I do not live less I live in your light,   
+I do not live less I live in your light.   
 
-> The realest thing I ever felt
-Was the blood on the floor and the love in your yell.  I was a child before, 
-The day that I met Elinor. 
+> The realest thing I ever felt  
+Was the blood on the floor and the love in your yell.  I was a child before,   
+The day that I met Elinor.   
 
-> The kiss of the wind in the hills, 
-The clearness of morning the late evening thrill. 
-Blurry and gray like the road, 
-The wheels on the highway above them I soared. 
+> The kiss of the wind in the hills,   
+The clearness of morning the late evening thrill.   
+Blurry and gray like the road,   
+The wheels on the highway above them I soared.   
 
-> When I’m in the sweet daughter’s eyes, 
-My heart is now ruined for the rest of all time.
-There’s no part of it left to give. 
-There’s no part of it left to give. 
+> When I’m in the sweet daughter’s eyes,   
+My heart is now ruined for the rest of all time.  
+There’s no part of it left to give.   
+There’s no part of it left to give.   
 
-> I never lived till I lived in your light, 
-And my heart never beat like it does at the sight 
-Of you baby blue God blessed your life, 
-I do not live less I live in your light, 
-I do not live less I live in your light. 
-I do not live….
+> I never lived till I lived in your light,   
+And my heart never beat like it does at the sight   
+Of you baby blue God blessed your life,   
+I do not live less I live in your light,   
+I do not live less I live in your light.   
+I do not live….  
 
 
 ## An Interpretation 
 
-Before diving into the song itself, it’s important to understand the Brothers’ family situations to give us context for the track. Scott is married with two children, living in North Carolina. Judging by the centrality of his family in the May It Last film combined with the familial lyrics of the group, it’s fair to say that both of the brothers are family men. Seth, however, has been divorced - an issue which he is unafraid to address head-on. Divorce Separation Blues from May It Last (album) offers a sensitive window into how Seth dealt with the split, and he often talks publicly about the importance of opening up about divorce and erasing the stigma that surrounds it. 
+Before diving into the song itself, it’s important to understand the Brothers’ family situations to give us context for the track. Scott is married with two children, living in North Carolina. Judging by the centrality of his family in the May It Last film combined with the familial lyrics of the group, it’s fair to say that both of the brothers are family men. Seth, however, has been divorced - an issue which he is unafraid to address head-on. "Divorce Separation Blues" from *May It Last* (album) offers a sensitive window into how Seth dealt with the split, and he often talks publicly about the importance of opening up about divorce and erasing the stigma that surrounds it. 
 
 Fittingly, the seasoned Avett listener will quickly pick up on the fact that Scott is the vocalist on this track - considering the fact that he is the only Avett with a child, it’s almost impossible not to conclude that he was also the one who wrote it. A Father’s First Spring is a strikingly profound account of the transition from young adult to parent. If the listener wasn’t sure about the intent of the song, he/she need not look any further that the title of the song itself. 
 

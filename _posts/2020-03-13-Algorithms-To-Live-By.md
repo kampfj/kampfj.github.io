@@ -25,7 +25,7 @@ This tension opens up an entire field of computational theory known as [optimal 
 
 What Christian and Griffiths get at so well is that our decisions and tradeoffs in the context of explore/exploit depend mainly on our *interval* in which we are exploring and/or exploiting. In other words, if you’re in Miami for one more day and have one more meal left, you’re probably better off going to that sure-thing steakhouse as opposed to trying out a new place. After all, it’s your last chance to enjoy it before you leave town! 
 
-Christian and Griffiths keenly use these theoretical concepts to shed light on human behavior. For example, the tension between explore and exploit can help explain the tendency of a young child to push buttons at random on a telephone just to see what happens, or of a man in an old age home who returns to play the same bingo game every single Sunday for two years running. In our world, the young tend to explore while the elderly exploit. As Christian and Griffiths explain so well:
+In the context of the *interval*, Christian and Griffiths reveal how optimal stopping sheds light on human behavior. For example, the tension between explore and exploit can help explain the tendency of a young child to push buttons at random on a telephone just to see what happens, or of a man in an old age home who returns to play the same bingo game every single Sunday for two years running. In our world, the young tend to explore while the elderly exploit. As Christian and Griffiths explain so well:
 
 > “we think of the young as stereotypically fickle; the old, stereotypically set in their ways. In fact, both are behaving completely appropriately with respect to their intervals.” 
 

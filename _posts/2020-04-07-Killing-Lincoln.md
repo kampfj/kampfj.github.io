@@ -43,7 +43,7 @@ Growing up, I always thought Abraham Lincoln was nothing more than an American s
 
 Rarely, though, is it that simple. While it’s heartwarming to think that President Lincoln tried to end slavery purely because he had a deep, warm belief in the equality of all beings, it would be intellectually dishonest to ignore the evidence that Lincoln had less humanitarian and perhaps more economic ends in mind. 
 
-For example, as an Illinois lawyer, Lincoln represented clients on both sides of the slavery issue, even once arguing once for a [Kentucky slaveholder trying to reclaim his property](https://en.wikipedia.org/wiki/Matson_Trial). Even is words during the Lincoln-Douglas debates, which went a long way toward granting Lincoln his lauded nickname of “The Great Emancipator”, might surprise you:
+For example, as an Illinois lawyer, Lincoln represented clients on both sides of the slavery issue, even once arguing once for a [Kentucky slaveholder trying to reclaim his property](https://en.wikipedia.org/wiki/Matson_Trial). Even his words during the Lincoln-Douglas debates, which went a long way toward granting Lincoln his lauded nickname of “The Great Emancipator”, might surprise you:
 
 > I will say that I am not, nor ever have been in favor of bringing about in anyway the social and political equality of the white and black races...and I will say in addition to this that there is a physical difference between the white and black races which I believe will forever forbid the two races living together on terms of social and political equality. (Lincoln-Douglas Debates, Debate IV)
 

@@ -6,7 +6,7 @@ categories: music_post
 
 Rich piano ballads and airy acoustic riffs color the Lumineers’ self-titled debut album. But the fullness and intrigue with Wesley Schultz and Jeremiah Fraites’ first studio piece goes well beyond aesthetics. The album’s youthful, independence-seeking anti-war redolence shines through with twentieth-century historical allusions and political imagery throughout the tracklist. If I were to sum up *The Lumineers* (the self-titled album, not to be confused with the band) in one photo, it would probably look something like this:
 
-![]("/assets/images/soldier.jpg")
+![](/assets/images/soldier.jpg)
 
 This photo of a young couple speaking their last words before the husband is taken by the draft may evoke feelings of love, youthfulness, and independence. But it also reminds us of the realities that make these values so difficult to maintain. I want to explore in detail the historical references throughout the album that bring alive the themes of *The Lumineers*. 
 

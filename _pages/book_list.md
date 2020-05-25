@@ -4,7 +4,13 @@ title: My Book List
 layout: archive
 ---
 
-*Open*, Andre Agassi   
+*Open*, Andre Agassi  
+*Educated*, Tara Westover
+*Here All Along*, Sarah Hurwitz 
+*Wilt: Larger than Life*, Robert Cherry
+*Maybe You Should Talk to Someone*, Lori Gottlieb 
+*Rebbe*, Joseph Telushkin
+*The Most Human Human*, Brian Christian 
 *Shoe Dog*, Phil Knight   
 *Creativity, Inc.*, Ed Catmull and Amy Wallace  
 *Algorithms to Live By*, Brian Christian and Tom Griffiths    

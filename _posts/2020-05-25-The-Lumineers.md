@@ -37,8 +37,8 @@ But this is also an album about love, and the juxtaposition of “Dead Sea” co
 
 “Dead Sea” similarly tells the story of two rebels fighting societal norms:
 
-> You told me you were good at running away 
-> Domestic life, it never suited you like a suitcase 
+> You told me you were good at running away   
+> Domestic life, it never suited you like a suitcase   
 
 The Lumineers here allude to the downfall of “domestic life”, and the feminist movement that gained signficant strength in the twentieth century with the passage of the Nineteenth Amendment in 1920 and the strong voice of activists like Betty Friedan and Gloria Steinem. This reference is backed strongly by “Flapper Girl”, the eighth song on the album. "Flapper Girl" beautifully tells the story of flappers, a generation of women in the 1920s who “rebelled” with non-traditional hairstyles and behavior that violated prevalent gender norms of the time. Flappers were icons of the Roaring Twenties, and symbolized a departure from feminine “domestic life” and traditional Victorian gender notions as more women began to embrace the workplace and their political efficacy. 
 

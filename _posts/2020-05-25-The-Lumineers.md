@@ -4,7 +4,7 @@ title: "Historical Allusions in the Lumineers' Debut Album"
 categories: music_post 
 ---
 
-Rich piano ballads and airy acoustic riffs color the Lumineers’ self-titled debut album, but the Wesley Schultz and Jeremiah Fraites’ first studio piece goes well beyond aesthetics. The album’s youthful, independence-seeking anti-war redolence shines through with twentieth-century historical allusions and political imagery throughout the tracklist. If I were to sum up *The Lumineers* (the self-titled album, not to be confused with the band) in one photo, it would probably look something like this:
+Rich piano ballads and airy acoustic riffs color the Lumineers’ self-titled debut album, but Wesley Schultz and Jeremiah Fraites’ first studio piece goes well beyond aesthetics. The album’s youthful, independence-seeking anti-war redolence shines through with twentieth-century historical allusions and political imagery throughout the tracklist. If I were to sum up *The Lumineers* (the self-titled album, not to be confused with the band) in one photo, it would probably look something like this:
 
 ![](/assets/images/soldier.jpg)
 

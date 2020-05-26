@@ -27,7 +27,7 @@ While *The Lumineers* is a story of young American pride, it’s also one of reb
 > I have none, so I will die  
 > With the secrets of the sea 
 
-The Lumineers here pose a critique to society and the powerlessness of the common man - regardless of the conviction this man has his information can save lives, his meek societal status prevents his word from being taken seriously. 
+The Lumineers here pose a critique to society and the powerlessness of the common man - regardless of the conviction this man has that his information can save lives, his meek societal status prevents his word from being taken seriously. 
 
 At the same time, Schultz and Fraites here employ a powerful literary device: “I will die / with the secrets of the sea” is perhaps an allusion to the naval warfare that has been waged overseas throughout American history. This line pays its respects to “secrets of the sea”, courageous young men and women who died protecting their countries. “I did spy periscopes” is also a neat literary move: a periscope is an instrument for observation and surveillance often used by underwater vessels - it allows you to see up and over the water. You see what they did there with “spy”? This is just one example of the literary nuances that make the Lumineers so special. 
 

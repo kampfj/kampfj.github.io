@@ -6,6 +6,7 @@ layout: archive
 
 *Open*, Andre Agassi  
 *Educated*, Tara Westover  
+*Hidden Valley Road*, Robert Kolker   
 *Here All Along*, Sarah Hurwitz   
 *Wilt: Larger than Life*, Robert Cherry  
 *Maybe You Should Talk to Someone*, Lori Gottlieb   

@@ -17,7 +17,7 @@ title: JJ Kampf
 email: kampfj@sas.upenn.edu
 url: https://kampfj.github.io/
 description: >- # this means to ignore newlines until "baseurl:"
-  JJ is a sophomore studying Computer Science and Philosophy at the University of Pennsylvania's School of Engineering 
+  JJ is a junior studying Computer Science and Philosophy at the University of Pennsylvania's School of Engineering 
   and Applied Science. JJ is passionate about the Avett Brothers.
 twitter_username: JJKampf
 github_username: kampfj
@@ -60,7 +60,7 @@ plugins:
 
 author:
   avatar   : "/assets/images/JJK.JPG"
-  bio      : "Hey! I'm JJ, a sophomore at Penn. I enjoy the music of the Avett Brothers, NBA Basketball, and a good book."
+  bio      : "Hey! I'm JJ, a junior at Penn. I enjoy the music of the Avett Brothers, NBA Basketball, and a good book."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

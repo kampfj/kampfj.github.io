@@ -1,6 +1,4 @@
 main:
-  - title: "Resume"
-    url: https://kampfj.github.io/assets/resume.pdf
   - title: "My Book Library"
     url: /book_posts/
   - title: "My Music Library"
